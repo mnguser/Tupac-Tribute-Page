@@ -49,3 +49,7 @@
     color: red;
     font-weight: bold;
 }
+#image {
+    max-width: 500px;
+    display: block;
+}
